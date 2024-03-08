@@ -25,6 +25,9 @@ https://nilupa-illangarathna.github.io/Drum-Kit-website/
 
 This Drum Kit web application provides an interactive experience for users to play various drum sounds by either clicking on buttons or using keyboard keys.
 
+![image](https://github.com/Nilupa-Illangarathna/Drum-Kit-website/assets/95247831/a30dfb85-8773-4c78-9db6-38a179db1dab)
+
+
 ## Getting Started
 
 ### Dependencies
