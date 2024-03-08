@@ -1,25 +1,12 @@
-# Drum-Kit-website
-
-## To play drum set,
-### Click on any button on the website
-### Press the key on your keyboad
-
-
-https://nilupa-illangarathna.github.io/Drum-Kit-website/
-
-
-
-
-
 
 
 # Drum Kit
 
 A simple Drum Kit web application that allows users to play drum sounds using both keyboard keys and mouse clicks.
 
-### To play drum set,
-### Click on any button on the website
-### Press the key on your keyboad
+To play drum set,
+Click on any button on the website
+Press the key on your keyboad
 https://nilupa-illangarathna.github.io/Drum-Kit-website/
 
  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
